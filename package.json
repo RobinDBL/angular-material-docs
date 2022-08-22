@@ -2,6 +2,7 @@
   "name": "angular-material-docs",
   "displayName": "angular-material-docs",
   "description": "",
+  "publisher": "RobinDeblauwe",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
