@@ -1,9 +1,9 @@
 {
   "name": "angular-material-docs",
-  "displayName": "angular-material-docs",
+  "displayName": "Angular Material documentation",
   "description": "",
   "publisher": "RobinDeblauwe",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.70.0"
   },
