@@ -3,7 +3,7 @@
   "displayName": "Angular Material documentation",
   "description": "",
   "publisher": "RobinDeblauwe",
-  "icon": "resources/angular.svg",
+  "icon": "resources/angular.png",
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.70.0"
